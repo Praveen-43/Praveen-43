@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on https://aesthetic-truffle-0d52e0.netlify.app/<br>🤝 I’m looking for collaborate on Projects<br>👨‍💻 All of my projects are available at Portfolio<br>🌱 I’m currently learning Full stack development related things<br>📫 How to reach me mechpraveen755@gmail.com<br>📄 Know about my experiences https://app.luminpdf.com/viewer/6443d997d014bc163ffd639a  ![gif1](https://user-images.githubusercontent.com/97544831/233790330-c1754abe-8b77-412e-a2f4-c8d635edeb7a.gif)
+🔭 I’m currently working on https://aesthetic-truffle-0d52e0.netlify.app/<br>
+🤝 I’m looking for collaborate on Projects<br>👨‍💻 All of my projects are available at Portfolio<br>
+🌱 I’m currently learning Full stack development related things<br> ![gif1](https://user-images.githubusercontent.com/97544831/233790330-c1754abe-8b77-412e-a2f4-c8d635edeb7a.gif)
+📫 How to reach me mechpraveen755@gmail.com<br>
+📄 Know about my experiences https://app.luminpdf.com/viewer/6443d997d014bc163ffd639a  
 
 
 
